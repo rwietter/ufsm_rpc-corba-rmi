@@ -1,0 +1,3 @@
+interface IServidorCorba {
+    void envia(in boolean mensagem);
+};
